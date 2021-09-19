@@ -1,0 +1,3 @@
+listen ircs://
+tls /certs/znc.sbehan.ca.crt /certs/znc.sbehan.ca.key
+hostname znc.sbehan.ca
