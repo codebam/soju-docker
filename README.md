@@ -1,3 +1,5 @@
+This container is updated automatically [every Monday at 8:15 UTC](https://github.com/codebam/soju-docker/blob/master/.github/workflows/docker-publish.yml#L10)
+
 To use this container first:
 
 `docker pull ghcr.io/codebam/soju:latest`
